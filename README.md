@@ -1,0 +1,2 @@
+# FoodsalesProject
+django FoodsalesProject
